@@ -10,7 +10,7 @@ To use the calculator, run the script and follow the on-screen instructions to p
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.3
 
 ## Running the Script
 
